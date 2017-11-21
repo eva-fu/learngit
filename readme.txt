@@ -5,4 +5,11 @@ Git tracks changes of files.
 Creating a new breach is quick.
 Creating a breach again.
 test branch
+<<<<<<< HEAD
+Creating a new breach is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
+test merge no fast forword
+
 
